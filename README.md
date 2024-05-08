@@ -1,5 +1,20 @@
 # TicTacToe
-![Screenshot (228)](https://github.com/rodeo12/TicTacToe/assets/112781993/98cf1809-6cc7-4720-9a98-81091c24dd56)
+![Screenshot (228)](https://github.com/rodeo12/TicTacToe/assets/112781993/659030ab-2af5-43e8-ba42-9fbfa68ee39b)
+
+# Introduction
+Welcome to the Tic Tac Toe Game project! This is a simple web-based game built using HTML, CSS, and JavaScript. The game provides a classic Tic Tac Toe experience where players can take turns placing their marks (X or O) on a 3x3 grid. The game is designed to be responsive, ensuring a seamless experience across various screen sizes.
+
+# Deployed Link
+ [Play Tic Tac Toe Game](https://tictactoex0.netlify.app/)
+
+
+# Features
+   - Responsive design for all screen sizes.
+   - Intuitive gameplay with Player X and Player O functionality.
+   - Real-time game status display indicating whose turn it is.
+   - Restart game button to start a new game at any time.
+   - Result screen for announcing the winner or declaring a draw.
+   - New game button on the result screen for quick game resets.
 
 To run the game locally on your machine, follow these steps:
 
